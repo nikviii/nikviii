@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Nikhil Jain!
 
 ### 🚀 Senior Software Engineer | Backend Specialist | Cloud Enthusiast
