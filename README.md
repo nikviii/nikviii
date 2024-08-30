@@ -18,9 +18,9 @@ My journey in software development has taken me through various roles, from a tr
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, TypeScript, Python
-- **Frameworks:** Nest.js, Angular, React.js, Node.js
-- **Databases:** PostgreSQL, MongoDB
-- **Tools & Platforms:** AWS, Docker, GIT, CI/CD, RESTful APIs, Prisma, TypeORM
+- **Frameworks:** Nest.js, Angular, React.js, Node.js, Next.js, Express
+- **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB
+- **Tools & Platforms:** AWS, Docker, GIT, CI/CD, RESTful APIs, Prisma, TypeORM, Sequelize, Mongoose
 - **Methodologies:** Agile, SDLC
 
 ---
